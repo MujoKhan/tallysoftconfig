@@ -1,3 +1,4 @@
 {
-  "licensing_api_url": "https://myssbond.com/api"
+  "licensing_api_url_dev": "http://127.0.0.1:8000/api",
+  "licensing_api_url_prod": "https://myssbond.com/api"
 }
